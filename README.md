@@ -46,6 +46,7 @@
 | 專案名稱 | 說明 | 連結 |
 | --- | --- | --- |
 | 貓貓超可愛機器人 | Discord Bot | [GitHub](https://github.com/kusanagi-akane/cat-discord-bot) |
+| 簡易抽獎機器人 | Discord Bot | [GitHub](https://github.com/kusanagi-akane/Giveaway) |
 | Discord全域黑名單 | API | [GitHub](https://github.com/kusanagi-akane/CatBlacklist-client) |
 | 個人網站 cathome.shop | 個人介紹 & 作品展示 | [Website](https://cathome.shop/kusanagi-akane/) |
 
