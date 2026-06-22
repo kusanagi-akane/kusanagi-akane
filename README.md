@@ -8,7 +8,7 @@
 ## About Me
 
 - 17 歲的全端開發者，熱愛寫程式，目前正在準備邁向資工 / 資管相關領域。
-- 開發並維護大型多功能 Discord 機器人，主打專案「貓貓超可愛」已突破 **23 萬** 使用者。
+- 開發並維護大型多功能 Discord 機器人，主打專案「貓貓超可愛」已突破 **24 萬** 使用者。
 - 目前擔任 **DCTW 審核員**、**KUSANA STUDIO 開發者**，並參與萬人社群管理。
 - 主要專注於 Python 異步架構、API 整合、虛擬經濟系統、社群自動化與安全管理。
 - 喜歡設計簡單、直覺、可愛但實用的工具與介面。
@@ -50,7 +50,7 @@
 
 | 專案名稱 | 說明 | 連結 |
 | --- | --- | --- |
-| **貓貓超可愛機器人** | 擁有 **23 萬+ 使用者**的大型多功能 Discord Bot，包含虛擬股市、抽卡系統、AI 繪圖與社群管理功能。 | [GitHub](https://github.com/kusanagi-akane/cat-discord-bot) |
+| **貓貓超可愛機器人** | 擁有 **24 萬+ 使用者**的大型多功能 Discord Bot，包含虛擬股市、抽卡系統、AI 繪圖與社群管理功能。 | [GitHub](https://github.com/kusanagi-akane/cat-discord-bot) |
 | **貓貓小盾牌** | 優秀、低延遲的防炸機器人 | [官網](https://bot.kusanagi.dev/) |
 | **簡易抽獎機器人** | 輕量化、高互動性的 Discord 社群抽獎工具。 | [GitHub](https://github.com/kusanagi-akane/Giveaway) |
 | **個人網站** | 整合個人介紹、站內客服單與玩家自創圖庫的入口網站。 | [Website](https://cathome.shop/kusanagi-akane/) |
