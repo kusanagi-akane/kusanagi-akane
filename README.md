@@ -50,7 +50,7 @@
 
 | 專案名稱 | 說明 | 連結 |
 | --- | --- | --- |
-| **貓貓超可愛機器人** | 擁有 **25 萬+ 使用者**的大型多功能 Discord Bot，包含虛擬股市、抽卡系統、AI 繪圖與社群管理功能。 | [GitHub](https://github.com/kusanagi-akane/cat-discord-bot) |
+| **貓貓超可愛機器人** | 擁有 **25 萬+ 使用者**的大型多功能 Discord Bot，包含虛擬股市、抽卡系統、AI 繪圖與社群管理功能。 | [官網](https://cathome.shop/bot) |
 | **貓貓小盾牌** | 優秀、低延遲的防炸機器人 | [官網](https://bot.kusanagi.dev/) |
 | **簡易抽獎機器人** | 輕量化、高互動性的 Discord 社群抽獎工具。 | [GitHub](https://github.com/kusanagi-akane/Giveaway) |
 | **個人網站** | 整合個人介紹、站內客服單與玩家自創圖庫的入口網站。 | [Website](https://cathome.shop/kusanagi-akane/) |
